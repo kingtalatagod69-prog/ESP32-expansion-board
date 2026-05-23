@@ -35,7 +35,7 @@ Kuratcha
 
 ##
 
-future Goals - become an engineer and have more chix
+future Goals - To become an engineer and to have my own family
 
 ## Contact 09950389279
 
