@@ -1,12 +1,45 @@
 # King Arnel T. Talatagod pogi
 
 
-##🎯Hobbies
--basketball
--outing
+##📍Location 
+sicsican palawan cherry 
 
-##📍Location by -Linapacan, Palawan
+## 🎯 Hobbies
+-playing mobile games
+-rides with friends
 
-##🍲Favorite Food -kuratcha
+
+#Skills
+
+|skill | Level |
+|------|-------|
+| C++ | Beginner|
+| Arduino | Beginner|
+PCB Design | Beginner |
+
+## Projects
+
+### * Arduino LED Blink
+Simple Arduino LED blinking project using C++.
+### * EasyEDA schematic
+ESP32 Expansion board
+
+### PCB Design Practice 
+Created PCB layouts using EasyEDA. ,Create Schematic using EasyEDA.
+
+## Favorite Food
+
+Sisig
+Kuratcha
 
 ##
+
+future Goals - become an engineer and have more chix
+
+## Contact 09950389279
+
+- GitHub:kingtalatagod- kingtalatagod69@gmail.com@gmail.com
+
+Thanks for visiting my por
+
+Share
