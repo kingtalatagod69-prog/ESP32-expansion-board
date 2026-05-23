@@ -41,4 +41,4 @@ future Goals - To become an engineer and to have my own family
 
 - GitHub:kingtalatagod69-prog kingtalatagod69@gmail.com
 
-Thanks for visitingmyp Portfolio
+Thanks for visiting my Portfolio
