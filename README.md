@@ -30,6 +30,7 @@ Created PCB layouts using EasyEDA. ,Create Schematic using EasyEDA.
 ## Favorite Food
 
 Sisig
+
 Kuratcha
 
 ##
@@ -38,6 +39,6 @@ future Goals - become an engineer and have more chix
 
 ## Contact 09950389279
 
-- GitHub:kingtalatagod69-prog kingtalatagod69@gmail.com@gmail.com
+- GitHub:kingtalatagod69-prog kingtalatagod69@gmail.com
 
 Thanks for visitingmyp Portfolio
