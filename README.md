@@ -38,8 +38,6 @@ future Goals - become an engineer and have more chix
 
 ## Contact 09950389279
 
-- GitHub:kingtalatagod- kingtalatagod69@gmail.com@gmail.com
+- GitHub:kingtalatagod69-prog kingtalatagod69@gmail.com@gmail.com
 
-Thanks for visiting my por
-
-Share
+Thanks for visitingmyp Portfolio
