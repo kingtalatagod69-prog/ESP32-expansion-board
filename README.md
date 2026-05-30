@@ -1,44 +1,62 @@
-# King Arnel T. Talatagod pogi
+# Project Title
+
+---
+
+-ESP32 expansion board
+
+---
 
 
-##📍Location 
-sicsican palawan cherry 
+## Project Description
+Project Description
+The ESP32 Expansion Board is a custom-designed development board that extends the functionality of the ESP32 microcontroller. It provides easy access to GPIO pins, power connections, communication interfaces, and peripheral modules for faster prototyping and embedded systems development. The board is designed for students, hobbyists, and developers who want a convenient platform for IoT, automation, robotics, and wireless communication projects.
 
-## 🎯 Hobbies
--playing mobile games
--rides with friends
+---
 
+## Features
 
-#Skills
+---
 
-|skill | Level |
-|------|-------|
-| C++ | Beginner|
-| Arduino | Beginner|
-PCB Design | Beginner |
+- Compatible with ESP32 Development Module
+- Easy access to all GPIO pins
+- Multiple power output connections (3.3V and 5V)
+- Breadboard-friendly design
+- - LED power indicator
+- Compact and durable PCB layout
+- Suitable for sensors, displays, relays, and modules
 
-## Projects
+---
 
-### * Arduino LED Blink
-Simple Arduino LED blinking project using C++.
-### * EasyEDA schematic
-ESP32 Expansion board
+## Components Used
 
-### PCB Design Practice 
-Created PCB layouts using EasyEDA. ,Create Schematic using EasyEDA.
+---
 
-## Favorite Food
+- ESP32 Dev Module
+- Female Header Pins
+- Voltage Regulator
+- Capacitors
+- Resistors
+- PCB Board
+- Screw Terminals / Pin Headers
 
-Sisig
+---
 
-Kuratcha
+## Software Used
 
-##
+---
 
-future Goals - To become an engineer and to have my own family
+- EasyEDA
+- Arduino IDE
 
-## Contact 09950389279
+---
 
-- GitHub:kingtalatagod69-prog kingtalatagod69@gmail.com
+## Author Name
 
-Thanks for visiting my Portfolio
+---
+
+- King Arnel T. Talatagod
+## Course & Section
+
+---
+
+- BS Electronics Engineering/EN1B
